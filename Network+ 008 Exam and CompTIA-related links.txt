@@ -1,0 +1,23 @@
+Network+ 008 Exam and CompTIA-related links:
+
+Practice exam websites info:
+https://exampremium.com/comptia-network/
+http://www.gocertify.com/network-quizzes/network-practice-quiz-n10-007-quiz-1
+The above links are to websites with free practice exams for the Network+ exam.
+
+Exam objectives:  
+Here is a link to CompTIA's official stance on what is on the Network+ exam - how many questions, how much time, topics covered, ...  https://partners.comptia.org/docs/default-source/resources/comptia-network-n10-008-exam-objectives-(2-0)
+
+Link to virtual white board:  https://home.pearsonvue.com/Standalone-pages/Whiteboard.aspx
+
+Here is a link to a page that explains what is required by CompTIA regarding testing from home.  https://home.pearsonvue.com/comptia/onvue
+
+Links to other resources:
+https://www.comptia.org/continuing-education
+Above is a link to information regarding what qualifies for Continuing Education credits. 
+
+https://www.comptia.org/continuing-education/learn/renewing-multiple-certifications
+The above link provides info on CompTIA's rules regarding how recertifying one cert impacts the status of other CompTIA certs.  
+
+https://www.comptia.org/training/certmaster-practice/network
+Above is a link to the CompTIA website where it discusses CompTIA's Certmaster program which has practice exams and labs available with a free trial period or for purchase.  Check it out.
